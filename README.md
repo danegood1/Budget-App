@@ -1,6 +1,6 @@
-# Budget-App
+# Budget-Planner
 
-[budget-app-javascript](https://budget-planner-javascript.netlify.com/)
+[budget-planner-javascript](https://budget-planner-javascript.netlify.com/)
 
 ## Preview Image
 
